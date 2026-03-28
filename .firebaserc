@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "narasimha-jampana"
+  },
+  "targets": {
+    "narasimha-jampana": {
+      "hosting": {
+        "snl-voice": [
+          "snl-voice"
+        ]
+      }
+    }
+  }
+}
