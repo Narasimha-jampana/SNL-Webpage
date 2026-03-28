@@ -1,4 +1,4 @@
-# 🌐 Sanjay Speech Hearing — Premium Clinic Website
+# 🌐 SNL — Premium Clinic Website
 
 > A high-end, responsive Single Page Application built to showcase the world-class clinical services of Sanjay Speech Hearing and Rehabilitation Center.
 
